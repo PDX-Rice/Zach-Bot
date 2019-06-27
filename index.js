@@ -8,4 +8,8 @@ bot.registry.registerGroup('command', 'Main Commands');
 bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + "/commands");
 
-bot.login('process.env.BOT_TOKEN');
+bot.login('NTg2Njk3MTI3Nzc5MTA2ODUx.XRL8Vw.zMgIqNl7yAseBjaYV_vekees690');
+
+//Message Commands
+    //message.reply("You rolled a " + roll);
+    //message.say('text');
